@@ -70,7 +70,7 @@ var game = function(){
     function init(){
         ball.style.left = 0;
         ball.state = 1;
-        ball.direction = 1; // right 1, left 2
+        ball.direction = 1; 
         player1 = new Object();
         player2 = new Object();
         player1.keyPress = false;
@@ -104,19 +104,19 @@ var game = function(){
     function moveBall(){
         checkStateBall();
         switch(ball.state){
-            case 1: // derecha, abajo
+            case 1: 
                 ball.style.left = (ball.offsetLeft + movement) +"px";
                 ball.style.top = (ball.offsetTop + movement) +"px";
                 break;
-            case 2: // derecha, arriba
+            case 2: 
                 ball.style.left = (ball.offsetLeft + movement) +"px";
                 ball.style.top = (ball.offsetTop - movement) +"px";
                 break;
-            case 3: // izquierda, abajo
+            case 3: 
                 ball.style.left = (ball.offsetLeft - movement) +"px";
                 ball.style.top = (ball.offsetTop + movement) +"px";
                 break;
-            case 4: // izquierda, arriba
+            case 4: 
                 ball.style.left = (ball.offsetLeft - movement) +"px";
                 ball.style.top = (ball.offsetTop - movement) +"px";
                 break;
@@ -205,4 +205,5 @@ var game = function(){
     start();
 }();
 </script>
+
 </html>
