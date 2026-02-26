@@ -64,7 +64,7 @@ Practicar programación orientada a eventos, animaciones y lógica de videojuego
 
 ---
 
-## 📦 Ejecutar localmente
+##  Ejecutar localmente
 
 1. Clonar repositorio
 2. Abrir `index.html`
