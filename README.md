@@ -1,6 +1,6 @@
 # 🕹️ Pong – Juego JN
 
-Recreación del clásico **Pong** desarrollada con JavaScript y HTML5 Canvas.
+Recreación del clásico **Pong** desarrollada con JavaScript y HTML5.
 El jugador controla una paleta e intenta impedir que la pelota atraviese su lado mientras anota puntos contra su rival.
 
 ---
