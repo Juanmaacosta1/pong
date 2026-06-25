@@ -21,7 +21,7 @@ Agregá una captura o GIF dentro de la carpeta **/assets**
 
 ---
 
-## 🎮 Controles
+##  Controles
 
 * Jugador 1 → `W` / `S`
 * Jugador 2 → `↑` / `↓`
@@ -30,7 +30,7 @@ El objetivo es hacer pasar la pelota por el lado del rival.
 
 ---
 
-## 🚀 Características
+##  Características
 
 * Movimiento fluido de la pelota
 * Colisiones con paredes y paletas
@@ -40,7 +40,7 @@ El objetivo es hacer pasar la pelota por el lado del rival.
 
 ---
 
-## 🧠 Lógica implementada
+##  Lógica implementada
 
 * Física básica de rebote
 * Velocidad progresiva
@@ -54,11 +54,10 @@ El objetivo es hacer pasar la pelota por el lado del rival.
 
 * HTML5 Canvas
 * CSS3
-* JavaScript puro (sin frameworks)
-
+* JavaScript 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Practicar programación orientada a eventos, animaciones y lógica de videojuegos usando JavaScript.
 
